@@ -2,6 +2,7 @@
   "name": "java",
 
   "dockerComposeFile": ["../docker/docker-compose.yml"],
+  "postCreateCommand": "apt update && apt install -y git",
 
   "service": "java",
   "workspaceFolder": "/java"
