@@ -1,0 +1,8 @@
+{
+  "name": "java",
+
+  "dockerComposeFile": ["../docker/docker-compose.yml"],
+
+  "service": "java",
+  "workspaceFolder": "/java"
+}
