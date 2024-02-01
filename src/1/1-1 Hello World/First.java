@@ -1,7 +1,8 @@
 /*First.java
  * 今日からjava学習を始める
  * printlnを使って画面に表示するプログラム
-    2023.7.19 松尾  */
+    2023.7.19 松尾  
+    2024.2.2 誤字修正 松尾*/
 
 class First{
     public static void main(String[] args){
